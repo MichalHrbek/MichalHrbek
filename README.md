@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michal Hrbek
 - I do cybersec, embedded, gamedev, webdev and probably everything else you can think of
+- I write in Python, JS, C++ and GDScript
 - I use Godot, Svelte and PlatformIO
-- I write in Python, JS, C++, GDScript
 - You can check out some of my projects on [my website](https://kasos.cz/)
